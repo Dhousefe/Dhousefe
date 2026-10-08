@@ -1,4 +1,4 @@
-# Árvore de Competências Técnicas & Soluções de Baixa Latência
+# Competências Técnicas & Soluções de Baixa Latência
 
 > **Profissional:** Geimysson Dhousefe  
 > **Perfil:** Engenheiro de Software & Arquiteto de Sistemas de Alta Performance  
@@ -20,7 +20,7 @@ Desenvolvedor e Arquiteto focado no desenvolvimento de servidores, microsserviç
 
 ---
 
-## 2. Árvore de Competências em Fluxo Mermaid
+## 2. Árvore de Competências
 
 O diagrama a seguir sintetiza a árvore de competências de Geimysson Dhousefe, correlacionando suas habilidades de engenharia avançada aos desafios corporativos e de sustentação de sistemas/ERPs:
 
